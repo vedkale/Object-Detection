@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>tennis_ball (1).jpg</filename>
+	<path>D:\Python Scripts\Projects\Tennis Ball Detector\images\tennis_ball (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tennis ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1595</xmin>
+			<ymin>855</ymin>
+			<xmax>1755</xmax>
+			<ymax>1021</ymax>
+		</bndbox>
+	</object>
+</annotation>
